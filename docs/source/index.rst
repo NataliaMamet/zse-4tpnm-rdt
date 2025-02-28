@@ -31,9 +31,11 @@ Lorem ipsum dolor sit amet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Lorem ipsum dolor sit amet
+
 ..note::
 
 Lorem ipsum dolor sit amet
+
 ..tip::
 
 'Lorem ipsum dolor sit amet'
