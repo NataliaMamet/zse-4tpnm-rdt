@@ -40,11 +40,16 @@ Lorem ipsum dolor sit amet
 
    Lorem ipsum dolor sit amet
 
-'Lorem ipsum dolor sit amet'
+.. code-block::
 
-::<br>Lorem ipsum dolor sit amet<br>
+   lorem
+   ipsum
 
-.._Lorem ipsum dolor sit amet:https://about.readthedocs.com/
+``Lorem ipsum dolor sit amet``
+
+
+
+.. _Lorem ipsum dolor sit amet:https://about.readthedocs.com/
 
 #. lorem
 #. ipsum
@@ -58,18 +63,28 @@ Lorem ipsum dolor sit amet
 - sit
 - amet
 
-```lorem`ipsum
-```dolor`sit
+lorem:
+   ipsum
+dolor:
+   sit
 
-..image::
-zse-4tpnm-rdt/image.jpg
-:width: 100px
-:align:center
-:alt: Opis obrazka
-:figcaption: podpis pod obrazkiem
+.. figure:: https://ih1.redbubble.net/image.5574568178.8673/raf,360x360,075,t,fafafa:ca443f4786.jpg
+   :width: 100px
+   :align: center
+   :alt: Opis obrazka
 
-..list-table::
-:header-rows:4
+   Podpis: im just a girl
+
++-------------------+------------------+------------------+
+|     Header 1      |     Header 2     |     Header 3     |
++===================+==================+==================+
+| Row 1, Column 1   | Row 1, Column 2  | Row 1, Column 3  |
++-------------------+------------------+------------------+
+| Row 2, Column 1   | Row 2, Column 2  | Row 2, Column 3  |
++-------------------+------------------+------------------+
+| Row 3, Column 1   | Row 3, Column 2  | Row 3, Column 3  |
++-------------------+------------------+------------------+
+
 
 
 .. toctree::
