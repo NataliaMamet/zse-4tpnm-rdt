@@ -38,6 +38,8 @@ Lorem ipsum dolor sit amet
 
 .. tip::
 
+   Lorem ipsum dolor sit amet
+
 'Lorem ipsum dolor sit amet'
 
 ::<br>Lorem ipsum dolor sit amet<br>
