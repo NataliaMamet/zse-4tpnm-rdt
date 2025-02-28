@@ -42,17 +42,17 @@ Lorem ipsum dolor sit amet
 
 .._Lorem ipsum dolor sit amet:https://about.readthedocs.com/
 
-#.lorem
-#.ipsum
-#.dolor
-#.sit
-#.amet
+#. lorem
+#. ipsum
+#. dolor
+#. sit
+#. amet
 
 - lorem
 - ipsum
 - dolor
 - sit
--amet
+- amet
 
 ```lorem`ipsum
 ```dolor`sit
