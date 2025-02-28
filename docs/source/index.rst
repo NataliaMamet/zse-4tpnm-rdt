@@ -30,13 +30,13 @@ Lorem ipsum dolor sit amet
 Lorem ipsum dolor sit amet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Lorem ipsum dolor sit amet
+   Lorem ipsum dolor sit amet
 
-..note::
+.. note::
 
-Lorem ipsum dolor sit amet
+   Lorem ipsum dolor sit amet
 
-..tip::
+.. tip::
 
 'Lorem ipsum dolor sit amet'
 
